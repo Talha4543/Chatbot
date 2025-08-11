@@ -1,4 +1,3 @@
-# Chatbot
 # 🍕 OrderBot - AI Pizza Ordering Assistant (Panel GUI)
 
 OrderBot is an AI-powered pizza ordering chatbot built with **Panel** and **OpenAI GPT**.  
@@ -20,5 +19,5 @@ It greets the customer, takes their pizza order, asks for pickup or delivery, co
 
 1. **Clone the repository**
    ```bash
-https://github.com/Talha4543/Chatbot.git
-cd orderbot-panel
+   git clone https://github.com/Talha4543/orderbot-panel.git
+   cd orderbot-panel
