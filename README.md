@@ -20,5 +20,5 @@ It greets the customer, takes their pizza order, asks for pickup or delivery, co
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/orderbot-panel.git
-   cd orderbot-panel
+https://github.com/Talha4543/Chatbot.git
+cd orderbot-panel
